@@ -12,7 +12,6 @@ El objetivo de este proyecto es extraer información valiosa sobre las ventas, i
 - [Arquitectura]
 - [Proceso]
 - [Funcionalidades]
-- [Estado de Proyecto]
 
 ## Características
 
@@ -34,6 +33,21 @@ El objetivo de este proyecto es extraer información valiosa sobre las ventas, i
 
 ## Arquitectura
 
-![Imagen de WhatsApp 2024-11-25 a las 22 22 09_38ed07fd](https://github.com/user-attachments/assets/1a64125d-dd25-4e66-9815-1ed10431dcf2)
+1. ![Imagen de WhatsApp 2024-11-25 a las 22 22 09_5d12be00](https://github.com/user-attachments/assets/ed2edf5b-cd1a-4ffd-a315-e22fedc1571e)
 
-## Estado de Proyecto
+2. ![Imagen de WhatsApp 2024-11-25 a las 22 22 09_536ad15f](https://github.com/user-attachments/assets/75e7047d-89fc-42b2-98be-519fb6a00f4b)
+
+3. ![Imagen de WhatsApp 2024-11-25 a las 22 22 10_6478fae7](https://github.com/user-attachments/assets/de4be1c6-5473-40f5-a3d0-c61af127bb99)
+
+4. ![Imagen de WhatsApp 2024-11-25 a las 22 22 10_61398b4f](https://github.com/user-attachments/assets/14292e79-e181-47fe-a968-f09bf872ff46)
+
+5. ![Imagen de WhatsApp 2024-11-27 a las 18 43 26_1077024b](https://github.com/user-attachments/assets/35e38d25-6298-422f-8057-c848e2f1c612)
+
+6. ![Imagen de WhatsApp 2024-11-27 a las 18 43 57_0853d890](https://github.com/user-attachments/assets/7d8e23af-4c2a-432d-a236-c216a7ce5377)
+
+## Proceso
+
+1. LIMPIEZA DE LOS DATOS ![Imagen de WhatsApp 2024-11-27 a las 18 47 38_98bcea42](https://github.com/user-attachments/assets/05af717b-0323-4e70-91d3-58111c5b13ef)
+
+3. IMPORTACIÓN DE LIBRERÍAS & CARGAS DE DATOS ![Imagen de WhatsApp 2024-11-27 a las 18 50 58_e6c3d686](https://github.com/user-attachments/assets/2336b8e7-2394-4671-a2df-b895d6638823)
+   ![Imagen de WhatsApp 2024-11-27 a las 18 51 30_008c7dd4](https://github.com/user-attachments/assets/0f88ac86-2007-46e9-9cea-3d272388bd30)
